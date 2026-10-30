@@ -1,0 +1,22 @@
+daily_missions = [
+    "🌱 Annaffia una pianta o prenditi cura di una pianta oggi.",
+    "💡 Spegni tutte le luci che non utilizzi.",
+    "🚿 Fai una doccia di massimo 5 minuti.",
+    "♻️ Ricicla correttamente almeno 3 oggetti.",
+    "🚰 Non sprecare acqua durante la giornata.",
+    "🛍️ Utilizza una borsa riutilizzabile.",
+    "🔌 Scollega un caricabatterie inutilizzato.",
+    "🍎 Evita di sprecare cibo durante i pasti.",
+    "🚲 Percorri almeno un breve tragitto a piedi o in bicicletta.",
+    "📄 Riutilizza un foglio di carta già utilizzato.",
+    "🥤 Utilizza una borraccia invece di una bottiglia usa e getta.",
+    "🌳 Raccogli almeno un rifiuto da terra in sicurezza.",
+    "🧴 Riutilizza un contenitore invece di buttarlo.",
+    "🐝 Scopri una nuova curiosità sulla biodiversità.",
+    "📦 Riutilizza una scatola o un imballaggio.",
+    "🍃 Evita prodotti con imballaggi inutili.",
+    "🔋 Controlla se hai batterie scariche da portare alla raccolta.",
+    "🌞 Sfrutta la luce naturale invece di accendere le lampadine.",
+    "👕 Indossa o riutilizza un vestito che possiedi già.",
+    "🌍 Condividi un consiglio ecologico con un amico."
+]

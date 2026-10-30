@@ -1,0 +1,22 @@
+green_tip = [
+    "🌱 Usa una borraccia riutilizzabile invece delle bottiglie di plastica.",
+    "💡 Spegni le luci quando esci da una stanza.",
+    "🚿 Riduci il tempo trascorso sotto la doccia.",
+    "♻️ Separa correttamente i rifiuti seguendo le regole del tuo comune.",
+    "🛍️ Usa borse riutilizzabili quando fai la spesa.",
+    "🔌 Scollega i caricabatterie quando non li utilizzi.",
+    "🚲 Quando puoi, scegli la bicicletta per gli spostamenti brevi.",
+    "🌳 Pianta alberi o prenditi cura delle piante.",
+    "🥕 Evita gli sprechi alimentari pianificando i pasti.",
+    "📦 Riutilizza scatole e contenitori prima di buttarli.",
+    "🧴 Preferisci prodotti con confezioni riciclabili o ricaricabili.",
+    "🍃 Non gettare rifiuti per terra, nemmeno piccoli mozziconi.",
+    "👕 Dona o scambia i vestiti che non utilizzi più.",
+    "🚰 Chiudi il rubinetto mentre ti lavi i denti.",
+    "📄 Stampa solo quando è necessario e usa entrambi i lati del foglio.",
+    "🔋 Porta le batterie scariche negli appositi punti di raccolta.",
+    "🍎 Preferisci prodotti di stagione e, quando possibile, locali.",
+    "🧹 Partecipa alle iniziative di pulizia di parchi e spiagge.",
+    "🌞 Sfrutta la luce naturale durante il giorno.",
+    "🐝 Proteggi la biodiversità evitando di danneggiare gli habitat naturali."
+]
